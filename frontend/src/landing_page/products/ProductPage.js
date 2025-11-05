@@ -16,6 +16,7 @@ function ProductPage() {
         learnMore=""
         googlePlay=""
         appStore=""
+        
       />
       <RightSection
         imageURL="assets/images/console.png"
