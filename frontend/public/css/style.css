@@ -1,0 +1,91 @@
+* {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>; */
+  font-style: normal;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #fff;
+}
+.nav-link:hover {
+  color: #387ed1 !important;
+}
+
+/* All btns */
+.btns {
+  background-color: #387ed1;
+  width: 17% !important;
+  margin: auto;
+  color: #fff;
+  border: none;
+  border: 1px solid rgba(0, 0, 0, 0) !important;
+  border-radius: 3px;
+}
+.btns:hover {
+  background-color: #222222;
+}
+a {
+  text-decoration: none !important;
+}
+
+/* Pricing */
+.pricingBox {
+  display: flex;
+  align-items: flex-end;
+}
+.pricingBox img {
+  width: 60%;
+}
+.pricingP {
+  font-size: 10px;
+  position: relative;
+  left: -25px;
+  text-align: left;
+}
+
+/* Footer */
+.footerLinks {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.footerLinks a {
+  color: #666666;
+  cursor: pointer;
+}
+.footerLinks ul{
+  display: flex;
+  justify-content: center;
+}
+.footerLinks li{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  list-style: none;
+  margin-left: 1rem;
+}
+.footerLinks a:hover{
+  color: #387ed1 !important;
+}
+
+/* Pricing component  */
+.brokerage-text{
+  font-size: 0.8rem;
+  line-height: 1.5rem;
+}
+
+/* Support compenet */
+.ticketBtn {
+  background-color: #387ed1;
+  width: 10% !important;
+  color: #fff;
+  border: none;
+  border: 1px solid rgba(0, 0, 0, 0) !important;
+  border-radius: 3px;
+}
+.ticketBtn:hover {
+  background-color: #222222;
+}
