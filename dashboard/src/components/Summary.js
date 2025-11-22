@@ -3,7 +3,7 @@ import React from "react";
 const Summary = () => {
   return (
     <>
-      <div className="username">
+      {/* <div className="username">
         <h6>Hi, User!</h6>
         <hr className="divider" />
       </div>
@@ -30,7 +30,7 @@ const Summary = () => {
           </div>
         </div>
         <hr className="divider" />
-      </div>
+      </div> */}
 
       <div className="section">
         <span>
