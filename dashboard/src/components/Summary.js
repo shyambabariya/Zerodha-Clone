@@ -32,7 +32,7 @@ const Summary = () => {
         <hr className="divider" />
       </div>
 
-      {/* <div className="section">
+      <div className="section">
         <span>
           <p>Holdings (13)</p>
         </span>
@@ -56,7 +56,7 @@ const Summary = () => {
           </div>
         </div>
         <hr className="divider" />
-      </div> */}
+      </div>
     </>
   );
 };
