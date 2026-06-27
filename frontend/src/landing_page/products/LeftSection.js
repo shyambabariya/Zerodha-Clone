@@ -5,7 +5,7 @@ function LeftSection({imageURL, productName, productDescription, tryDemo, learnM
     <div className="container">
       <div className="row p-5">
         <div className="col-7 p-5">
-          <img src={imageURL} />
+          <img src={imageURL} alt="img"/>
         </div>
         <div className="col-5 mt-5">
           <h2 className="mt-5">{productName}</h2>
@@ -15,8 +15,8 @@ function LeftSection({imageURL, productName, productDescription, tryDemo, learnM
           <a className="p-5" href={learnMore}>Learn more <i class="fa-solid fa-arrow-right"></i></a>
           </div>
           <div className="mt-4">
-          <a href={googlePlay}><img src="assets/images/googlePlayBadge.svg"/></a>
-          <a className="p-3" href={appStore}><img src="assets/images/appstoreBadge.svg"/></a>
+          <a href={googlePlay}><img src="assets/images/googlePlayBadge.svg" alt="img"/></a>
+          <a className="p-3" href={appStore}><img src="assets/images/appstoreBadge.svg" alt="img"/></a>
           </div>
         </div>
       </div>

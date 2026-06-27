@@ -31,7 +31,7 @@ function Stats() {
           </p>
         </div>
         <div className="col-6">
-          <img className="mt-5" src="assets/images/ecosystem.png" style={{ width: "100%" }} />
+          <img className="mt-5" src="assets/images/ecosystem.png" alt="img" style={{ width: "100%" }} />
           <div className="text-center">
             <a href="" className="mx-5">
               Explore our products <i class="fa-solid fa-arrow-right"></i>
@@ -41,7 +41,7 @@ function Stats() {
             </a>
           </div>
         </div>
-         <img src="assets/images/pressLogos.png" style={{width:"60%",margin:"auto"}}/>
+         <img src="assets/images/pressLogos.png" alt="img" style={{width:"60%",margin:"auto"}}/>
       </div>
     </div>
   );

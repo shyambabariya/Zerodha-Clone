@@ -7,6 +7,7 @@ function Education() {
         <div className="col-6">
           <img
             src="assets/images/education.svg"
+            alt="img"
             style={{ width: "80%"}}
           />
         </div>

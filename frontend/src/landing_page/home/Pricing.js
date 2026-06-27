@@ -15,15 +15,15 @@ function Pricing() {
         <div className="col-7" style={{display:"flex", alignItems:"center"}}>
           <div className="row">
             <div className="col pricingBox">
-              <img src="assets/images/pricing-eq.svg"/>
+              <img src="assets/images/pricing-eq.svg" alt="img"/>
               <p className="pricingP">Free account opening</p>
             </div>
             <div className="col pricingBox">
-              <img src="assets/images/pricing-eq.svg"/>
+              <img src="assets/images/pricing-eq.svg" alt="img"/>
               <p className="pricingP">Free equity delivery and direct mutual funds</p>
             </div>
             <div className="col pricingBox">
-              <img src="assets/images/other-trades.svg"/>
+              <img src="assets/images/other-trades.svg" alt="img"/>
               <p className="pricingP" style={{left:"-6px"}}> Intraday, F&O and More</p>
             </div>
           </div>

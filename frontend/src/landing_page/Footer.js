@@ -6,7 +6,7 @@ function Footer() {
     <div className="container">
       <div className="row mt-5 ">
         <div className="col">
-          <img src="assets/images/logo.svg" style={{ width: "50%" }} />
+          <img src="assets/images/logo.svg" alt="img" style={{ width: "50%" }} />
           <p className="fs-8 text-muted">
             &copy; 2010 - 2025, Zerodha Broking Ltd. All rights reserved.
           </p>

@@ -9,7 +9,7 @@ function Hero() {
       </div>
       <div className="row mt-5 text-center">
         <div className="col-4 p-4">
-          <img src="assets/images/pricingEquity.svg" />
+          <img src="assets/images/pricingEquity.svg" alt="img"/>
           <h2>Free equity delivery</h2>
           <p className="text-muted mt-4">
             All equity delivery investments (NSE, BSE),
@@ -17,7 +17,7 @@ function Hero() {
           </p>
         </div>
         <div className="col-4 p-4">
-          <img src="assets/images/intradayTrades.svg" />
+          <img src="assets/images/intradayTrades.svg" alt="img"/>
           <h2>Intraday and F&O trades</h2>
           <p className="text-muted mt-4">
             Flat ₹ 20 or 0.03% (whichever is lower) per executed order on
@@ -27,7 +27,7 @@ function Hero() {
           </p>
         </div>
         <div className="col-4 p-4">
-          <img src="assets/images/pricingEquity.svg" />
+          <img src="assets/images/pricingEquity.svg" alt="img" />
           <h2>Free direct MF</h2>
           <p className="text-muted mt-4">
             All direct mutual fund investments are <br/> absolutely free — ₹ 0

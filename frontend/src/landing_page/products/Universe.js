@@ -13,6 +13,7 @@ function Universe() {
           <img
             src="assets/images/zerodhaFundhouse.png"
             style={{ width: "50%" }}
+            alt="img"
           />
           <p
             className="text-muted pt-2 ps-5 pe-5"
@@ -24,6 +25,7 @@ function Universe() {
         </div>
         <div className="col-4 p-3 mt-5">
           <img
+            alt="img"
             src="assets/images/sensibull-logo.svg"
             style={{ width: "60%" }}
           />
@@ -37,7 +39,7 @@ function Universe() {
           </p>
         </div>
         <div className="col-4 p-3 mt-5">
-          <img src="assets/images/tijori.svg" style={{ width: "40%" }} />
+          <img src="assets/images/tijori.svg" style={{ width: "40%" }} alt="img" />
           <p
             className="text-muted pt-2 ps-5 pe-5"
             style={{ fontSize: "0.8rem" }}
@@ -50,7 +52,7 @@ function Universe() {
           </p>
         </div>
         <div className="col-4 p-3">
-          <img src="assets/images/streakLogo.png" style={{ width: "50%" }} />
+          <img src="assets/images/streakLogo.png" style={{ width: "50%" }} alt="img"/>
           <p
             className="text-muted pt-2 ps-5 pe-5"
             style={{ fontSize: "0.8rem" }}
@@ -63,7 +65,7 @@ function Universe() {
           </p>
         </div>
         <div className="col-4 p-3">
-          <img src="assets/images/smallcaseLogo.png" style={{ width: "50%" }} />
+          <img src="assets/images/smallcaseLogo.png" style={{ width: "50%" }} alt="img"/>
           <p
             className="text-muted pt-2 ps-5 pe-5"
             style={{ fontSize: "0.8rem" }}
@@ -74,7 +76,7 @@ function Universe() {
           </p>
         </div>
         <div className="col-4 p-3">
-          <img src="assets/images/dittoLogo.png" style={{ width: "40%" }} />
+          <img src="assets/images/dittoLogo.png" style={{ width: "40%" }} alt="img"/>
           <p
             className="text-muted  pt-2 ps-5 pe-5"
             style={{ fontSize: "0.8rem" }}
